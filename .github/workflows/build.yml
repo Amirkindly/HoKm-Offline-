@@ -51,5 +51,5 @@ jobs:
 
       - uses: actions/upload-artifact@v4
         with:
-          name: HokmOnline-apk
+          name: HoKmOffline-apk
           path: dist/HokmOnline.apk
